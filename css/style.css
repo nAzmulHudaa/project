@@ -1,0 +1,98 @@
+.navbar{
+    background-color: #6C62FF;
+}
+.nav-item a{
+    color: white !important;
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 15px;
+}
+.navbar img{
+    width: 50px;
+    margin-left: 15px;
+}
+.navbar h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    font-size: 45px;
+    font-weight: 900;
+    line-height:70px;
+    margin-bottom: 50px;
+}
+
+.line{
+    width: 250px;
+    height:3px !important;
+    margin-right: auto;
+    margin-left: auto;
+    color:#000 !important;
+    opacity: 1 !important;
+}
+.btn-app{
+    background-color: #2D2C41;
+    color: white;
+    border-radius: 30px;
+    border: 1px solid #2D2C41;
+    padding: 10px 25px;
+    margin-right: 20px;
+}
+.btn-pool{
+    color: black;
+    border-radius: 30px;
+    border: 1px solid black;
+    padding: 12px 45px;
+}
+.header-title h5{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 30px 0px;
+}
+.mini-header{
+    font-size: 35px;
+    font-weight: 800;
+    line-height:70px;
+    margin: 50px 0px;
+}
+.box{
+    background-color: #E8DCF0;
+    padding:30px 20px ;
+    border-radius: 10px;
+    color: #7B4DB7;
+}
+.content-name{
+    color: black;
+}
+.box p{
+    color: black;
+}
+
+.circle{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #C08C79;
+}
+.dot{
+    width: 8px;
+    height: 8px;
+    border-radius: 70%;
+    background-color:  #7B4DB7;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.left{
+    margin-top: 12px;
+    margin-left: 130px;
+    
+}
+.mini-line{
+    width: 250px;
+    height:3px !important;
+    color:#000 !important;
+    opacity: 1 !important;
+    position: relative;
+    bottom: 50px;
+}
