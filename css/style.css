@@ -80,13 +80,23 @@
     height: 8px;
     border-radius: 70%;
     background-color:  #7B4DB7;
-    margin-top: 10px;
+    margin-top:3px;
     margin-right: 10px;
+
 }
 .left{
-    margin-top: 12px;
+    margin-top: 38px;
     margin-left: 130px;
-    
+    background: #fff;
+    justify-content: space-between;
+    align-items: center;
+    border-radius:10px;
+    position: relative;
+    bottom: 20px;
+    padding:  0 5px;
+}
+.left > p{
+    margin: 0;
 }
 .mini-line{
     width: 250px;
@@ -96,3 +106,4 @@
     position: relative;
     bottom: 50px;
 }
+
